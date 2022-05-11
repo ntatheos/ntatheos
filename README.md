@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Theonste Ntalindwa
-- 👀 I’m interested in Learning Tchnlgies
-- 🌱 I’m currently learning fr Unversity of Rwanda as eLearning Officer
+- 👀 I’m interested in Learning Technologies
+- 🌱 I’m currently learning for University of Rwanda as eLearning Officer
 - 💞️ I’m looking to collaborate on eLearning technologies to ehance the teaching and learning online
 - 📫 How to reach me at ntatheos@yahoo.co.uk
 
